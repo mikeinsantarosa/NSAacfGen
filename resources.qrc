@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>freq.png</file>
+        <file>keysight1.png</file>
+        <file>keysight2.png</file>
+        <file>keysight3.jpeg</file>
+        <file>keysight4.jpeg</file>
+        <file>report.png</file>
+        <file>about.jpeg</file>
+        <file>NSAacfGen.ico</file>
+    </qresource>
+</RCC>
