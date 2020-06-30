@@ -7,7 +7,7 @@
 #include <QPalette>
 #include <QDebug>
 #include "version.h"
-#include "globals.h"
+//#include "globals.h"
 
 namespace Ui {
 class About;
@@ -29,6 +29,7 @@ private slots:
 private:
     Ui::About *ui;
     QString getAboutLabelMarkup();
+    QString getRevDate();
 
 
 

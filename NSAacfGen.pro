@@ -32,7 +32,7 @@ HEADERS  += nsaacfgen.h \
     acfstatus.h \
     basefilelists.h \
     antennacalinfo.h \
-    globals.h
+    version.h
 
 FORMS    += nsaacfgen.ui \
     about.ui
